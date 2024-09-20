@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-          @copyright reserve
+          @copyright reservegi
           </div>
         </div>
       </section>
